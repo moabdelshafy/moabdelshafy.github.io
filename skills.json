@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+  },
+  {
+    "name": "Spring Boot",
+    "icon": "https://img.icons8.com/?size=1x&id=90519&format=png"
+  },
+
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/?size=1x&id=UFXRpPFebwa2&format=png"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+  },
+  {
+    "name": "Redis",
+    "icon": "https://img.icons8.com/?size=1x&id=pHS3eRpynIRQ&format=png"
+  },
+  {
+    "name": "AWS",
+    "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+  },
+  {
+    "name": "Heroku",
+    "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+  },
+  {
+    "name": "Netlify",
+    "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "Gitlab",
+    "icon": "https://img.icons8.com/?size=1x&id=34886&format=png"
+  },
+  {
+    "name": "Jira",
+    "icon": "https://img.icons8.com/?size=1x&id=oROcPah5ues6&format=png"
+  },
+  {
+    "name": "Slack",
+    "icon": "https://img.icons8.com/?size=1x&id=kikR2jIn6485&format=png"
+  },
+  {
+    "name": "Sourcetree",
+    "icon": "https://img.icons8.com/?size=1x&id=Qu2sYlfDM0qZ&format=png"
+  },
+  {
+    "name": "Maven",
+    "icon": "https://img.icons8.com/?size=1x&id=jfjmkTUFX5Vf&format=png"
+  },
+  {
+    "name": "Thymeleaf",
+    "icon": "https://img.icons8.com/?size=1x&id=iWpVsSkAqPpZ&format=png"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/?size=2x&id=zFAYIdFZlGxP&format=png"
+  },
+  {
+    "name": "MicroServices",
+    "icon": "https://img.icons8.com/?size=1x&id=NnzHVIu1bGIV&format=png"
+  }
+]
