@@ -212,7 +212,10 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image img {
-  width: 105%;
+  width: 550px;
+  height: auto;
+  margin-left: 100px;
+  margin-top: 50px;
 }
 /* .home .image img:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
@@ -286,7 +289,7 @@ header .navbar ul li a:hover {
   display: inline-block;
   line-height: 44px;
   color: #00d9ff;
-  background-color: #09011b;
+  background-color: #1c0258;
   width: 44px;
   height: 44px;
   text-align: center;
@@ -457,7 +460,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #2506ad, #2506ad);
+  background: linear-gradient(to bottom,#ffffff , #ffffff);
 }
 .skills h2 {
   color: #fff;
@@ -466,7 +469,6 @@ header .navbar ul li a:hover {
   color: rgb(255, 230, 0);
 }
 .skills .container {
-  background: rgba(0, 0, 22, 0.4);
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
